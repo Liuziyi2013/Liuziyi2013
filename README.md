@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruce
+- 👋 Hi, I’m Ziyi
 - I im an Chinese pupil in Github!
 
 <!---
