@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ziyi
-- I im an Chinese pupil in Github!
+ha!来了就去@HelloWRC那看看ClassIsland
 
 <!---
 Liuziyi2013/Liuziyi2013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
